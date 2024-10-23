@@ -43,7 +43,7 @@ The Personal Expense Tracker API allows users to manage their personal financial
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/LawanGoud/Expense-tracker.git
    cd expense-tracker
    ```
 
